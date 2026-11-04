@@ -501,3 +501,11 @@ h1 .ks,h2 .ks{text-wrap:balance}
   .gallery-grid.n6{grid-template-columns:repeat(3,1fr)}
   .gallery-grid.n8{grid-template-columns:repeat(4,1fr)}
 }
+
+/* ===== 첫 방문 가격 강조 — 수원연무점 2026-11-04 ===== */
+.price-table td.price .pf{display:block;margin-top:5px;color:var(--accent-dark);font-size:13.5px;font-weight:700}
+.price-table td.price .pf em{font-style:normal;font-size:11px;font-weight:700;color:var(--white);background:var(--accent-dark);padding:2px 7px;border-radius:3px;margin-right:6px;vertical-align:1px;letter-spacing:.02em}
+.price-table td.price del{display:block;margin-top:3px;font-size:13px;font-weight:400;color:var(--ink-soft)}
+.price-table td .desc.first{color:var(--accent-dark)}
+.first-banner{margin:0 0 18px;padding:14px 18px;background:var(--bg-card);border:1px solid var(--line);border-left:4px solid var(--accent-dark);font-size:14.5px;line-height:1.6;color:var(--ink)}
+.first-banner b{color:var(--accent-dark);margin-right:8px}
