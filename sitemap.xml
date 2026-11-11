@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://riahn-yeonmu.kr/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/"/>
@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/"/>
@@ -23,7 +23,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/"/>
@@ -33,7 +33,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/"/>
@@ -43,7 +43,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/cut/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/cut/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/cut/"/>
@@ -53,7 +53,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/cut/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/cut/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/cut/"/>
@@ -63,7 +63,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/cut/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/cut/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/cut/"/>
@@ -73,7 +73,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/cut/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/cut/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/cut/"/>
@@ -83,7 +83,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/perm/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/perm/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/perm/"/>
@@ -93,7 +93,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/perm/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/perm/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/perm/"/>
@@ -103,7 +103,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/perm/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/perm/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/perm/"/>
@@ -113,7 +113,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/perm/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/perm/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/perm/"/>
@@ -123,7 +123,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/color/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/color/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/color/"/>
@@ -133,7 +133,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/color/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/color/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/color/"/>
@@ -143,7 +143,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/color/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/color/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/color/"/>
@@ -153,7 +153,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/color/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/color/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/color/"/>
@@ -163,7 +163,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/clinic/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/clinic/"/>
@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/clinic/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/clinic/"/>
@@ -183,7 +183,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/clinic/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/clinic/"/>
@@ -193,7 +193,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/clinic/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/clinic/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/clinic/"/>
@@ -203,7 +203,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/designers/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/designers/"/>
@@ -213,7 +213,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/designers/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/designers/"/>
@@ -223,7 +223,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/designers/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/designers/"/>
@@ -233,7 +233,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/designers/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-10</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/designers/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/designers/"/>
@@ -243,7 +243,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/gallery/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/gallery/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/gallery/"/>
@@ -253,7 +253,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/gallery/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/gallery/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/gallery/"/>
@@ -263,7 +263,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/gallery/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/gallery/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/gallery/"/>
@@ -273,7 +273,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/gallery/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.6</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/gallery/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/gallery/"/>
@@ -283,7 +283,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/faq/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/faq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/faq/"/>
@@ -293,7 +293,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/faq/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/faq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/faq/"/>
@@ -303,7 +303,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/faq/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/faq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/faq/"/>
@@ -313,7 +313,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/faq/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/faq/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/faq/"/>
@@ -323,7 +323,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/location/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/location/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/location/"/>
@@ -333,7 +333,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/en/location/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/location/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/location/"/>
@@ -343,7 +343,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/ja/location/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/location/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/location/"/>
@@ -353,7 +353,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/zh/location/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://riahn-yeonmu.kr/location/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://riahn-yeonmu.kr/en/location/"/>
@@ -363,7 +363,7 @@
   </url>
   <url>
     <loc>https://riahn-yeonmu.kr/recruit/</loc>
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-09</lastmod>
     <priority>0.6</priority>
   </url>
 </urlset>
